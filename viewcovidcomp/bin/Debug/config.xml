@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <local_gate_ip>192.168.1.8</local_gate_ip>
+  <ftp_username>ftpuser</ftp_username>
+  <ftp_pass>ftppass</ftp_pass>
+</ConfigData>

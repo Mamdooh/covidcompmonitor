@@ -1,0 +1,14 @@
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\bin\Release\viewcovidcomp.exe.config
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\bin\Release\viewcovidcomp.exe
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\bin\Release\viewcovidcomp.pdb
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\bin\Release\FluentFTP.dll
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\bin\Release\FluentFTP.xml
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.AboutBox1.resources
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.Form1.resources
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.Form2.resources
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.Properties.Resources.resources
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.csproj.GenerateResource.cache
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.csproj.CoreCompileInputs.cache
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.csproj.CopyComplete
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.exe
+C:\Users\mmdooh\source\repos\viewcovidcomp\viewcovidcomp\obj\Release\viewcovidcomp.pdb
